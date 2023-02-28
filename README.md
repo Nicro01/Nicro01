@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-Java-purple"/>
   <img src="https://img.shields.io/badge/-CSS-darkblue"/>
   <img src="https://img.shields.io/badge/-Vue.js-green"/>
+  <img src="https://img.shields.io/badge/-Laravel-red"/>
 </div>
 
 <div align='center'>

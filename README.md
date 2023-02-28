@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-HTML-orange"/>
   <img src="https://img.shields.io/badge/-Java-purple"/>
   <img src="https://img.shields.io/badge/-CSS-darkblue"/>
-  <img src="https://img.shields.io/badge/-VisualG-lightgrey"/>
+  <img src="https://img.shields.io/badge/-Vue.js-green"/>
 </div>
 
 <div align='center'>

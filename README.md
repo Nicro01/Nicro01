@@ -29,7 +29,7 @@
   <li>Computer Scientist at UNIFIL</li>
   <li>Web and Chatbot Developer</li>
   <li>HTML/CSS/JS Enthusiast</li>
-  <li>Website and Chatbot Freelancer</li>
+  <li>Website and Chatbot Developer Freelancer</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/">https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/</a></li>
   <li>Email: nicolasmagalhaes2003@gmail.com</li>
 </ul>

@@ -21,7 +21,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
+
 
 ### :man_technologist: About Me :
 
@@ -29,9 +29,8 @@
   <li>Computer Scientist at UNIFIL</li>
   <li>Web and Chatbot Developer</li>
   <li>HTML/CSS/JS Enthusiast</li>
-  <li>Website and Chatbot Developer Freelancer</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/">https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/</a></li>
-  <li>Email: nicolasmagalhaes2003@gmail.com</li>
+  <li><a href="https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/">LinkedIn</a></li>
+  <li><a href="mailto:nicolasmagalhaes2003@gmail.com">E-mail</li>
 </ul>
 
 

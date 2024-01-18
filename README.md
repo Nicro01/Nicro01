@@ -4,7 +4,6 @@
 </div>
 
 <div id="badges" align='center'>
-  <img src="https://img.shields.io/badge/-Python-blue"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
   <img src="https://img.shields.io/badge/-HTML-orange"/>
   <img src="https://img.shields.io/badge/-CSS-darkblue"/>
@@ -27,9 +26,9 @@
 <ul>
   <li>Computer Scientist at UNIFIL</li>
   <li>Web and Chatbot Developer</li>
-  <li>HTML/CSS/JS Enthusiast</li>
+  <li>Vue.js | Laravel</li>
   <li><a href="https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/">LinkedIn</a></li>
-  <li><a href="mailto:nicolasmagalhaes2003@gmail.com">E-mail</li>
+  <li><a href="mailto:nicolasmagalhaes2003@gmail.com">E-mail</a></li>
 </ul>
 
 

@@ -48,7 +48,7 @@
 
 [![](https://streak-stats.demolab.com?user=Nicro01&theme=onedark-duo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicro01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=<github_username>&props.theme=dark)
 
 
 

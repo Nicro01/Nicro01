@@ -46,7 +46,7 @@
 
 ### :fire: My Stats :
 
-[![](https://streak-stats.demolab.com?user=Nicro01&theme=onedark-duo)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=Nicro01&theme=onedark-duo)
 
 ![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=<Nicro01>&props.theme=dark)
 

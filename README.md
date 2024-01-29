@@ -48,7 +48,7 @@
 
 ![](https://streak-stats.demolab.com?user=Nicro01&theme=onedark-duo)
 <div style="width:100%">
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Nicro01&props.theme=dark)
+  ![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Nicro01&props.theme=dark)
 </div>
 
 

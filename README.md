@@ -25,7 +25,7 @@
 
 <ul>
   <li>Computer Scientist at UNIFIL</li>
-  <li>Web and Chatbot Developer</li>
+  <li>WebDeveloper</li>
   <li>Vue.js | Laravel</li>
   <li><a href="https://www.linkedin.com/in/nicolas-magalhães-b30b3525b/">LinkedIn</a></li>
   <li><a href="mailto:nicolasmagalhaes2003@gmail.com">E-mail</a></li>

@@ -25,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nicro01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nicro01" /></a></p><br><br>
 
-<div>
+<div style="display:flex;width:100%">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicro01&show_icons=true&locale=en&layout=compact" alt="nicro01" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nicro01&show_icons=true&locale=en" alt="nicro01" /></p>

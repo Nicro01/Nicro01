@@ -28,8 +28,12 @@
 
 </br></br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicro01&show_icons=true&locale=en&layout=compact" alt="nicro01" />
+
+</br>
+
 <div style="display: flex; justify-content: space-between;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicro01&show_icons=true&locale=en&layout=compact" alt="nicro01" />
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=nicro01&show_icons=true&locale=en" alt="nicro01" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicro01&" alt="nicro01" />
 </div>

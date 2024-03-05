@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h1 align="center">Hi 👋, I'm Nicro</h1>
 <h3 align="center">A full-stack enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicro01&label=Profile%20views&color=0e75b6&style=flat" alt="nicro01" /> </p>

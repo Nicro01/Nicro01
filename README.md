@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WebGenie](webgenie.com.br)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **TALL Stack**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](webgenie.com.br)
 

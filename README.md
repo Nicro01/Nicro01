@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TALL Stack**
 
-- 👨‍💻 All of my projects are available at [webgenie.com.br](webgenie.com.br)
+- 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)
 
 - 💬 Ask me about **vue, inertia, laravel, css, tailwind**
 

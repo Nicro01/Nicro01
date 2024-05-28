@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [WebGenie](https://webgenie.com.br)
 
-- 🌱 I’m currently learning **TALL Stack**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)
 
-- 💬 Ask me about **vue, inertia, laravel, css, tailwind**
+- 💬 Ask me about **VILT Stack, TALL Stack**
 
 - 📫 How to reach me **contato@webgenie.com.br**
 

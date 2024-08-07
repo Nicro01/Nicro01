@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WebGenie](https://webgenie.com.br)
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)
 

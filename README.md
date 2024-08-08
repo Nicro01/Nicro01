@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicro01&label=Profile%20views&color=0e75b6&style=flat" alt="nicro01" /> </p>
 
-- 🔭 I’m currently working on [WebGenie](https://webgenie.com.br)
+- 🔭 [WebGenie](https://webgenie.com.br) Founder
 
 - 🌱 I’m currently learning **Next.JS**
 

@@ -5,7 +5,7 @@
 
 - 🔭 [WebGenie](https://webgenie.com.br) Founder
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **CI/CD**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)
 

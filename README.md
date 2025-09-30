@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicro01&label=Profile%20views&color=0e75b6&style=flat" alt="nicro01" /> </p>
 
-- 🔭 [WebGenie](https://webgenie.com.br) Founder
-
 - 🌱 I’m currently learning **Mendix & Outsystems 11/OCD**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)

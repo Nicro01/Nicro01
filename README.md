@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicro01&label=Profile%20views&color=0e75b6&style=flat" alt="nicro01" /> </p>
 
-- 🌱 I’m currently learning **Mendix & Outsystems 11/OCD**
+- 🌱 I’m currently learning **Mendix**
 
 - 👨‍💻 All of my projects are available at [webgenie.com.br](https://webgenie.com.br)
 

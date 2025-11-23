@@ -17,7 +17,7 @@
       <br>
       <ul>
         <li>🌱 Currently expanding my horizons learning <b>Mendix</b> and <b>ASP.NET</b>.</li>
-        <li>🚀 All my major projects are showcased at <a href="https://webgenie.com.br"><b>webgenie.com.br</b></a>.</li>
+        <li>🚀 Some of my major projects are showcased at <a href="https://webgenie.com.br"><b>webgenie.com.br</b></a>.</li>
         <li>💬 Talk to me about <b>Laravel, Tailwind, Alpine.JS & Livewire</b>.</li>
         <li>📫 Reach me at: <b>nicolasmagalhaes2003@gmail.com</b></li>
       </ul>

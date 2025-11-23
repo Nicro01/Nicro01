@@ -50,7 +50,7 @@
       </p>
       <p><b>Low-code & Tools:</b></p>
       <p>
-         <img src="https://cdn.worldvectorlogo.com/logos/mendix.svg" alt="mendix" width="40" height="40"/>
+         <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFlvXknhjCqvg/company-logo_200_200/B4EZfHlvCzHwAI-/0/1751400247839/mendix_logo?e=2147483647&v=beta&t=nTOUkiBzxZWkoY7P4AenL5ofWoOWVHt4f2CQ5Ey6eqc" alt="mendix" width="40" height="40"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/>
